@@ -114,4 +114,5 @@ Al ejecutar el programa aparece el siguiente menú:
 ---
 
 ## 👨‍💻 Autores
-Proyecto académico para la materia de programación en C++.
+Juan Esteban Ocampo Arocha --> Ing. Sistemas
+Samuel Andres Aviles Leon --> Ing. Sistemas
