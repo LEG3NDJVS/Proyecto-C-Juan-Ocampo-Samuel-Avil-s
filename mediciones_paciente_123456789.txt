@@ -1,0 +1,36 @@
+=================================================
+    REPORTE DE MEDICIONES MÉDICAS
+    Paciente: 123456789
+=================================================
+
+=== TEMPERATURA ===
+Fecha: 01/08/2024 10:00:15.456 | Valor: 39.50 | Estado: ANOMALA - Fuera del rango [36.0 - 38.0]
+Fecha: 02/08/2024 11:30:00.000 | Valor: 37.50 | Estado: NORMAL - Dentro del rango [36.0 - 38.0]
+
+--- Estadísticas ---
+Mínimo: 37.50, Máximo: 39.50, Promedio: 38.50 (Total: 2 lecturas)
+
+=== PRESIÓN ARTERIAL ===
+Fecha: 01/08/2024 10:00:05.123 | Valor: 150.00/85.00 | Estado: ANOMALA - Presión sistólica y diastólica fuera de rango
+Fecha: 02/08/2024 11:30:00.000 | Valor: 130.00/95.00 | Estado: ANOMALA - Presión diastólica fuera de rango
+
+--- Estadísticas ---
+Presión Sistólica - Mín: 130.00, Máx: 150.00, Promedio: 140.00 (Total: 2 lecturas)
+Presión Diastólica - Mín: 85.00, Máx: 95.00, Promedio: 90.00 (Total: 2 lecturas)
+
+=== OXIGENACIÓN ===
+Fecha: 01/08/2024 10:00:25.789 | Valor: 92.00 | Estado: ANOMALA - Fuera del rango [95.0 - 100.0]
+
+--- Estadísticas ---
+Mínimo: 92.00, Máximo: 92.00, Promedio: 92.00 (Total: 1 lecturas)
+
+=== ELECTROCARDIOGRAMA ===
+Fecha: 01/08/2024 10:00:05.123 | Valor: 0.80 | Estado: Sin análisis (ECG)
+
+--- Estadísticas ---
+Mínimo: 0.80, Máximo: 0.80, Promedio: 0.80 (Total: 1 lecturas)
+
+=================================================
+Reporte generado exitosamente.
+Total de lecturas procesadas: 6
+=================================================

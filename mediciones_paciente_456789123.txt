@@ -1,0 +1,22 @@
+=================================================
+    REPORTE DE MEDICIONES MÉDICAS
+    Paciente: 456789123
+=================================================
+
+=== PRESIÓN ARTERIAL ===
+Fecha: 20/07/2024 08:00:00.000 | Valor: 145.00/92.00 | Estado: ANOMALA - Presión sistólica y diastólica fuera de rango
+
+--- Estadísticas ---
+Presión Sistólica - Mín: 145.00, Máx: 145.00, Promedio: 145.00 (Total: 1 lecturas)
+Presión Diastólica - Mín: 92.00, Máx: 92.00, Promedio: 92.00 (Total: 1 lecturas)
+
+=== OXIGENACIÓN ===
+Fecha: 20/07/2024 08:05:00.000 | Valor: 98.00 | Estado: NORMAL - Dentro del rango [95.0 - 100.0]
+
+--- Estadísticas ---
+Mínimo: 98.00, Máximo: 98.00, Promedio: 98.00 (Total: 1 lecturas)
+
+=================================================
+Reporte generado exitosamente.
+Total de lecturas procesadas: 2
+=================================================
