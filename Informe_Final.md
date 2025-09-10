@@ -482,3 +482,15 @@ Durante la elaboración de la documentación se utilizaron conversaciones con Ch
 * Explicación detallada de los headers (`.hh`).
 * Generación del archivo `README.md`.
 * Elaboración de este informe con ejemplos de código y reportes simulados.
+
+Utilizando las siguientes prompths
+* ¿Cómo leo una línea y la guardo en estructura? 
+* ¿Cómo uso la función trim y split en el sprint 1?
+* ¿Cómo es la sintaxis de los binarios y cómo los relaciono al proyecto?
+* ¿Cómo comparo con el strcmp un arreglo de cadenas con una variable char?
+* ¿Cómo creo un binario? 
+* ¿Cómo paso un binario a un txt?
+* ¿Cómo cambiar todo a dinámico? 
+* ¿En qué partes se tiene que liberar memoria?
+
+Autores: Juan Esteban Ocampo & Samuel Andres Aviles Leon
