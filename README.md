@@ -114,5 +114,5 @@ Al ejecutar el programa aparece el siguiente menú:
 ---
 
 ## 👨‍💻 Autores
-Juan Esteban Ocampo Arocha --> Ing. Sistemas
-Samuel Andres Aviles Leon --> Ing. Sistemas
+* Juan Esteban Ocampo Arocha --> Ing. Sistemas
+* Samuel Andres Aviles Leon --> Ing. Sistemas
