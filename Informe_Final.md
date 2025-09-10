@@ -493,4 +493,6 @@ Utilizando las siguientes prompths
 * ¿Cómo cambiar todo a dinámico? 
 * ¿En qué partes se tiene que liberar memoria?
 
-Autores: Juan Esteban Ocampo & Samuel Andres Aviles Leon
+## 👨‍💻 Autores
+* Juan Esteban Ocampo Arocha --> Ing. Sistemas
+* Samuel Andres Aviles Leon --> Ing. Sistemas
