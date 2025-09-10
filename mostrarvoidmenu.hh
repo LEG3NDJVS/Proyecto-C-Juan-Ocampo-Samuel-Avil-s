@@ -227,7 +227,7 @@ void opcion2(){
 
 void opcion3() {
     const char* config_file = "configuracion.txt";
-    const char* bsf_file    = "GenerarBinarioProfe/patient_readings_simulation_small.bsf";
+    const char* bsf_file    = "GenerarBinarioProfe/patient_readings_simulation.bsf";
     const char* dat_file    = "pacientes_ecg_anomalos.dat";
     const char* out_file    = "validation_ecg_anomalies.txt";
 
@@ -424,5 +424,6 @@ void opcion4(){
     AC.listaDeReglas = nullptr;
     AC.numReglas = AC.capacidad = 0;
 }
+
 
 #endif
