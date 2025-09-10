@@ -7,8 +7,8 @@
 #include <iomanip>
 #include <cmath>
 #include <cstdlib>   // atof
-#include "libs\CONFIGURACION_SENSOR.hh"
-#include "libs\LECTURA.hh"
+#include "libs/CONFIGURACION_SENSOR.hh"
+#include "libs/LECTURA.hh"
 
 using namespace std;
 
@@ -362,5 +362,6 @@ bool ValidateEcgExportFile(const char* binary_filename, const char* text_filenam
     text_file.close();
     return true;
 }
+
 
 #endif
