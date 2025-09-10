@@ -110,7 +110,7 @@ struct SalaUCI {
 ```
 
 **Explicación detallada del funcionamiento:**
-- Esta jerarquía de estructuras modela datos de un archivo binario (.bsf) que simula lecturas de una UCI.
+- Modela datos de un archivo binario (.bsf) que simula lecturas de una UCI.
 - `Lectura`: Representa una medición individual. `tipoSensor` identifica el sensor ('T', 'P', 'O', 'E'), `valor` es el valor principal (double para precisión en temperatura, oxigenación o ECG), y `sistolica`/`diastolica` son relevantes solo para 'P' (presión arterial), usando enteros sin signo para evitar valores negativos inválidos.
 - `Medicion`: Agrupa lecturas para un paciente en un momento dado. `idPaciente` y `fechaHora` son cadenas dinámicas, `lecturas` es un array dinámico de `Lectura`.
 - `MaquinaUCI`: Representa una máquina en la UCI con un ID y un array dinámico de `Medicion`.
